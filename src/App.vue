@@ -7,9 +7,9 @@
   </div>
 </template>
 
-<style lang="scss">
+<style scoped lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
-
+ 
 :root {
   --font: Roboto, sans-serif;
   --textColor: #374961;
